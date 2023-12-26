@@ -1,16 +1,28 @@
-### Hi there 👋
+# ggroney
 
-<!--
-**ggroney/ggroney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 🙂
 
-Here are some ideas to get you started:
+Meu nome é Roney Gonçalves Gomes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo 
+<div>
+  <a href="https://www.linkedin.com/in/ggroney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"/></a>
+  <a href="https://github.com/ggroney" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" target="_blank"/></a>
+  <a href="https://www.instagram.com/ggroney" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"/></a>
+  <a href="mailto:roneyggomes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=007BFF" target="_blank"/></a>
+</div>
+
+## Habilidades
+<div>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC"/>
+</div>
+
+## GitHub Stats
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggroney&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggroney&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+</div>
