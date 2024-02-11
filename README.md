@@ -19,8 +19,8 @@ Meu nome é Roney Gonçalves Gomes.
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC"/>
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
 ## GitHub Stats
