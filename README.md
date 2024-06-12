@@ -2,7 +2,7 @@
 
 Olá! 🙂
 
-Meu nome é Roney Gonçalves Gomes. 
+Meu nome é Roney Gonçalves Gomes e sou estudante de programação web full stack. 
 
 ## Conecte-se comigo 
 <div>
