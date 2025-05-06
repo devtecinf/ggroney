@@ -2,7 +2,7 @@
 
 Olá! 🙂
 
-Sou estudante de análise e desenvolvimento de sistemas e programação web full stack. 
+Sou estudante de desenvolvimento de sistemas e programação full stack. 
 
 ## Conecte-se comigo 
 <div>
