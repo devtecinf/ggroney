@@ -2,7 +2,7 @@
 
 Olá! 🙂
 
-Meu nome é Roney Gonçalves Gomes, sou estudante de análise e desenvolvimento de sistemas e programação web full stack. 
+Sou estudante de análise e desenvolvimento de sistemas e programação web full stack. 
 
 ## Conecte-se comigo 
 <div>
